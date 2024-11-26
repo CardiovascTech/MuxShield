@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# macOS metadata
+.DS_Store
+
+# Windows metadata files
+Desktop.ini
+Thumbs.db
+
